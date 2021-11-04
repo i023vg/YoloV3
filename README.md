@@ -1,6 +1,5 @@
 # YoloV3
 
-空のディレクトリ`utils`を作成し、その中に`bbox.py`, `colos.py`, `image.py`, `multi_gpu_model.py`, `utils.py`を入れる。
 
 空のディレクトリ`weights`を作成しておく。
 
